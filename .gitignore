@@ -1,0 +1,18 @@
+# IDE
+.idea/
+.vscode/
+
+# Java
+out/
+*.iml
+*.class
+target/
+*.jar
+*.war
+
+*/out/
+*/*.iml
+*/*.class
+*/target/
+*/*.jar
+*/*.war
